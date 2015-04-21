@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicAppChallenge</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="speech_prompt">Say something…</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+    <string name="search">Search</string>
+    <string name="title_activity_play">Play</string>
+    <string name="no_song_name">Enter a track name first</string>
+    <string name="no_song_found">No song found with the track name</string>
+    <string name="track_name">Track Name</string>
+    <string name="album_artist_name">Album - Artist</string>
+    <string name="album_art_description">Album Art</string>
+    <string name="playback_started">Track playback started</string>
+    <string name="playback_finished">Track playback finished</string>
+    <string name="waiting_title">Connecting</string>
+    <string name="waiting_message">Please wait</string>
+
+</resources>
